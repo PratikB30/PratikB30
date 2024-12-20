@@ -15,7 +15,7 @@
 ## 💼 Projects
 
 ### [Sign Language Interpreter](https://github.com/PratikB30/Sign-Language-Interpreter-using-CNN)
-- **Tech Stack**: Python, TensorFlow, Keras, ORB, CNN
+- **Tech Stack**: Python, TensorFlow, Keras, CNN
 - **Description**: Developed a CNN-based model for American Sign Language (ASL) gesture recognition. Implemented a two-layer algorithm which boost the model acuracy, achieving 95.7%.
 
 ### [Telecom Customer Churn Prediction](https://github.com/PratikB30/Telecom-Churn-Prediction)
