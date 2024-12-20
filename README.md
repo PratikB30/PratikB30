@@ -35,7 +35,7 @@
 - **Tools**: VS Code, GitHub, AWS, MySQL, MongoDB Atlas
 - **Soft Skills**: Problem-Solving, Team Collaboration, Communication, Project Management, Agile, Leadership
 
-## 🏆 Achievements
+## 📜 Certificates
 - **AWS Academy Cloud Architecting Graduate**
 
 Feel free to explore my projects, and don't hesitate to reach out for collaborations!
