@@ -9,7 +9,7 @@
 ## 📚 Education
 - **B.Tech in Computer Engineering (Major: Data Science)**  
   **Ramrao Adik Institute of Technology**  
-  CGPA: 9.15 (till Sem-6)  
+  CGPA: 9.15 (till Sem-7)  
   Navi Mumbai, India
 
 ## 💼 Projects
