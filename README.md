@@ -31,8 +31,8 @@
 - **Description**: Multi-lingual financial security app featuring fraud detection and an OCR model for form guidance. Integrated with a chatbot to address user queries on cyber laws.
 
 ## 🛠️ Technical Skills
-- **Languages & Frameworks**: Python, Flask, SQL, C
-- **Tools**: VS Code, GitHub, MongoDB Atlas, AWS, MySQL
+- **Languages & Frameworks**: Python, Flask, SQL, C, Docker
+- **Tools**: VS Code, GitHub, MongoDB Atlas, MySQL
 - **Soft Skills**: Problem-Solving, Team Collaboration, Communication, Project Management, Agile, Leadership
 
 ## 📜 Certificates
