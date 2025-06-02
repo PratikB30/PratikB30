@@ -13,7 +13,7 @@
   **Navi Mumbai, India**
 
 ## 🛠️ Technical Skills
-- **Languages & Frameworks**: Python, Flask, SQL, C, Docker
+- **Languages & Frameworks**: Python, FastAPI, Flask, SQL, Docker
 - **Tools**: VS Code, GitHub, MongoDB Atlas, MySQL
 - **Soft Skills**: Problem-Solving, Team Collaboration, Communication, Project Management, Agile, Leadership
 
