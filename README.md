@@ -15,7 +15,7 @@
 ## 🛠️ Technical Skills
 - **Languages & Frameworks**: Python, FastAPI, Flask, SQL, Docker
 - **Tools**: VS Code, GitHub, MongoDB Atlas, MySQL
-- **Soft Skills**: Problem-Solving, Team Collaboration, Communication, Project Management, Agile, Leadership
+- **Soft Skills**: Problem-Solving, Team Collaboration, Communication
 
 ## 📜 Certificates
 - **AWS Academy Cloud Architecting Graduate**
