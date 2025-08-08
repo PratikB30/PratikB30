@@ -7,5 +7,5 @@
 💼 [LinkedIn](https://www.linkedin.com/in/pratikb10) 
 
 ## 🛠️ Technical Skills
-- **Languages & Frameworks**: Python, FastAPI, Flask, SQL, HTML, CSS
+- **Languages & Frameworks**: Python, FastAPI, Flask, SQL, NoSQL
 - **Tools**: VS Code, GitHub, MongoDB Atlas, MySQL, Docker
