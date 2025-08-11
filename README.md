@@ -8,4 +8,4 @@
 
 ## 🛠️ Technical Skills
 - **Languages & Frameworks**: Python, FastAPI, Flask, SQL, NoSQL
-- **Tools**: VS Code, GitHub, MongoDB Atlas, MySQL, Docker
+- **Tools**: VS Code, GitHub, MongoDB, MySQL, Docker
